@@ -4,7 +4,7 @@ on:
     branches:
      - main
 jobs:
-  first-hello-world-job:
+  first-hello-world-job-inaction:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout code
